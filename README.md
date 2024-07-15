@@ -14,7 +14,7 @@
 ## The Role
 OpenBench is hiring a scientist with expertise in computational drug discovery to join the discovery team. The role requires practical experience in executing structure-based virtual screens from structure preparation to experimental validation.
 
-The role is responsible for maximizing successful outcomes in early discovery collaborations. The scientists will evaluate protein structural data to determine ligandability and estimate achievable potency, perform virtual screens of multi-billion compound libraries using OpenBench’s screening platform, parse and analyze assay readouts, and drive potency and physicochemical improvements through design-make-test-analyze (DMTA) cycles.
+This role is responsible for maximizing successful outcomes in early discovery collaborations. The scientist will evaluate protein structural data to determine ligandability and estimate achievable potency, perform virtual screens of multi-billion compound libraries using OpenBench’s screening platform, parse and analyze assay readouts, and drive potency and physicochemical improvements through design-make-test-analyze (DMTA) cycles.
 
 ## About OpenBench
 OpenBench is building the future of early drug discovery. In stark rejection of the prevailing ‘fee-for-service’ hit discovery paradigm, we operate on a ‘fee-for-success’ basis: OpenBench’s biotech collaborators only pay once we identify and confirm potent, developable leads. Our powerful proprietary virtual screening platform uniquely enables OpenBench’s success-driven approach. 
