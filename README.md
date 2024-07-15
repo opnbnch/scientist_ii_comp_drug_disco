@@ -1,7 +1,14 @@
 # Scientist II: Computational Drug Discovery
-## OpenBench
+- [About OpenBench](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#about-openbench)
+- [The Role](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#the-role)
+- [Responsibilities](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#responsibilities)
+- [Required qualifications](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#required-qualifications)
+- [Preferred qualifications & skills](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#preferred-qualifications--skills)
+- [Compensation and benefits](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#compensation-and-benefits)
+- [Apply](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#to-apply)
+- 
+## About OpenBench
 OpenBench is building the future of early drug discovery. In stark rejection of the prevailing ‘fee-for-service’ hit discovery paradigm, we operate on a ‘fee-for-success’ basis: OpenBench’s biotech collaborators only pay once we identify and confirm potent, developable leads. Our powerful proprietary virtual screening platform uniquely enables OpenBench’s success-driven approach. 
-
 
 Working at OpenBench means working in close collaboration with biotech companies on the cutting edge of target-based drug discovery. Our success-driven model demands constant innovation in the practical applications of virtual screening technology. We require a high degree of scientific acumen and rigor to consistently deliver chemical series that advance our collaborators’ high-impact R&D programs.
 
@@ -56,3 +63,4 @@ At OpenBench, we firmly believe in on-the-job training and improvement. Any of t
 Please send a cover letter and resume highlighting relevant experience to hiring@opnbnch.com with the subject line “OpenBench Scientist II”
 
 OpenBench strives to foster an inclusive workplace. We do not discriminate or make employment decisions based on race, national origin, gender, gender identity, religion, parental status,  veteran status, disability status, age, or any other status protected by applicable law. We strongly encourage applications from women and members of underrepresented minority groups.
+
