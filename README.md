@@ -1,3 +1,5 @@
+![yellow-banner](yellow-banner.png  | width=100)
+
 # Scientist II: Computational Drug Discovery
 - [About OpenBench](#about-openbench)
 - [The Role](#the-role)
