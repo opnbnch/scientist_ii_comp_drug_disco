@@ -1,12 +1,12 @@
 # Scientist II: Computational Drug Discovery
-- [About OpenBench](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#about-openbench)
-- [The Role](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#the-role)
-- [Responsibilities](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#responsibilities)
-- [Required qualifications](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#required-qualifications)
-- [Preferred qualifications & skills](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#preferred-qualifications--skills)
-- [Compensation and benefits](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#compensation-and-benefits)
-- [Apply](https://github.com/opnbnch/scientist_ii_comp_drug_disco/?tab=readme-ov-file#to-apply)
-- 
+- [About OpenBench](#about-openbench)
+- [The Role](#the-role)
+- [Responsibilities](#responsibilities)
+- [Required qualifications](#required-qualifications)
+- [Preferred qualifications & skills](#preferred-qualifications--skills)
+- [Compensation and benefits](#compensation-and-benefits)
+- [Apply](#to-apply)
+
 ## About OpenBench
 OpenBench is building the future of early drug discovery. In stark rejection of the prevailing ‘fee-for-service’ hit discovery paradigm, we operate on a ‘fee-for-success’ basis: OpenBench’s biotech collaborators only pay once we identify and confirm potent, developable leads. Our powerful proprietary virtual screening platform uniquely enables OpenBench’s success-driven approach. 
 
