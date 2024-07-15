@@ -1,4 +1,4 @@
-![yellow-banner](yellow-banner.png  | width=100)
+![yellow-banner]([yellow-banner.png](https://github.com/opnbnch/scientist_ii_comp_drug_disco/blob/main/yellow-banner.png))
 
 # Scientist II: Computational Drug Discovery
 - [About OpenBench](#about-openbench)
