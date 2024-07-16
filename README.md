@@ -2,7 +2,7 @@
 ![yellow-banner](https://github.com/opnbnch/scientist_ii_comp_drug_disco/blob/main/OpenBenchLogo_Horizontal_Color@4x.png)
 
 
-# Job Ad: Scientist II: Computational Drug Discovery
+# Open Role: Scientist II: Computational Drug Discovery
 - [The Role](#the-role)
 - [About OpenBench](#about-openbench)
 - [Responsibilities](#responsibilities)
